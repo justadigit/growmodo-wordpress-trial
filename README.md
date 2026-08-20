@@ -19,7 +19,7 @@ https://growmodo-trial.pyllord.com
 GitHub repository:
 
 ```text
-Add repository URL before final submission.
+https://github.com/justadigit/growmodo-wordpress-trial
 ```
 
 ## Project Goals
