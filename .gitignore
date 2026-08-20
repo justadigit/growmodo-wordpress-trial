@@ -1,0 +1,10 @@
+.DS_Store
+.env
+wp-content/
+wordpress/
+uploads/
+*.zip
+*.sql
+*.log
+node_modules/
+vendor/
